@@ -1,0 +1,17 @@
+/*
+Theme Name: zboom
+Theme URI: https://thememoor.com/themes/zboom/
+Author: the Alamgir Chowdhury
+Author URI: https://coder_alamgir.com/
+Description: zboom simple music wordpress theme.
+Version: 1.0
+Text Domain: zboom
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+*/
+
+
+.comment-body .comment-author img{
+   height: 50px;
+   width: 50px;
+}
